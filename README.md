@@ -18,10 +18,10 @@ I created this repository to share my solutions to problems on Codewars.
 | [Pete, the baker](https://github.com/ryoch1/Codewars-solutions/blob/main/5kyu%20/Pete_the_baker.md)    | [CW link](https://www.codewars.com/kata/525c65e51bf619685c000059)   | Python |
 | [Mean Square Error](https://github.com/ryoch1/Codewars-solutions/blob/main/5kyu%20/Mean_Square_Error.md)    | [CW link](https://www.codewars.com/kata/51edd51599a189fe7f000015)    | Python |
 | [Largest product in a series](https://github.com/ryoch1/Codewars-solutions/blob/main/5kyu%20/Largest_product_in_a_series.md) | [CW link](https://www.codewars.com/kata/529872bdd0f550a06b00026e) | Python |
-| Not very secure | [CW link](https://www.codewars.com/kata/526dbd6c8c0eb53254000110) | Python |
-| Human Readable Time | [CW link](https://www.codewars.com/kata/52685f7382004e774f0001f7) | Python |
-| Simple Pig Latin | [CW link](https://www.codewars.com/kata/520b9d2ad5c005041100000f) | Python |
-| Moving Zeroes To The End | [CW link](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | C++ |
+| [Not very secure](https://github.com/ryoch1/Codewars-solutions/blob/main/5kyu%20/Not_very_secure.md) | [CW link](https://www.codewars.com/kata/526dbd6c8c0eb53254000110) | Python |
+| [Human Readable Time](https://github.com/ryoch1/Codewars-solutions/blob/main/5kyu%20/Human_Readable_Time.md) | [CW link](https://www.codewars.com/kata/52685f7382004e774f0001f7) | Python |
+| [Simple Pig Latin](https://github.com/ryoch1/Codewars-solutions/blob/main/5kyu%20/Simple_Pig_Latin.md) | [CW link](https://www.codewars.com/kata/520b9d2ad5c005041100000f) | Python |
+| [Moving Zeroes To The End](https://github.com/ryoch1/Codewars-solutions/blob/main/5kyu%20/Moving_Zeroes_To_The_End.md) | [CW link](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | C++ |
 
 ---
 
